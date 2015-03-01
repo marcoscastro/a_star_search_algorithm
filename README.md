@@ -20,3 +20,5 @@ Output for the graphs shown previously:
 ![alt tag](http://4.bp.blogspot.com/-_pvq61ytQ4E/VPN2ZhWYfZI/AAAAAAAAETw/XrGCBTkUYMQ/s1600/saida.png)
 
 Post about A* (in portuguese): http://www.geeksbr.com/2015/03/python-algoritmo-de-busca-a.html
+
+Tested with Python 2.7 and 3.4.
