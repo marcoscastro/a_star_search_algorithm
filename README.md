@@ -1,5 +1,5 @@
 # A* (A Star) Search Algorithm
-Implementation of search algorithm A* (A Star).
+Implementation (in python language) of search algorithm A* (A Star).
 
 Implementation based in the explanation of video: https://www.youtube.com/watch?v=b9fH-j_yNHU
 
